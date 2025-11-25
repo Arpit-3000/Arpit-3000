@@ -29,11 +29,11 @@
   </a>
   &nbsp;
 
-  <!-- Instagram -->
+  <!-- Instagram 
   <a href="https://www.instagram.com/__ayushdas_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp; -->
 
   <!-- X / Twitter -->
   <a href="https://x.com/ArpitSri1205">
